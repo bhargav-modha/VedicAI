@@ -22,8 +22,7 @@ VedicAI's architecture includes the following components:
 - **Intelligence Layer**: Encompasses a model pipeline with LLMs, text segmentation and embedding, and FAISS integration for text retrieval.
 - **Application Layer**: Utilizes the model's outputs for specific tasks or applications.
 
-![System Architecture](https://github.com/bhargav-modha/VedicAI/assets/56217073/6ab51fce-f245-4963-a5e2-9ab35bc87a7b)
-
+![System Architecture](https://github.com/bhargav-modha/VedicAI/assets/56217073/7b01bd3e-e5c1-438e-a0d0-d9ca06ee93bb)
 
 ## Features
 - **High Accuracy and Relevance**: Achieves high performance in accuracy (8.5/10) and relevance (9.2/10) based on human ratings.
@@ -88,8 +87,10 @@ The evaluation included a comparison of various state-of-the-art LLMs:
 Among these models, the **LLaMa-2-13b-chat-hf** model proved to be the most effective, delivering the best results in terms of accuracy, response quality, and computational efficiency.
 
 ## UI Screenshots
-![image](https://github.com/bhargav-modha/VedicAI/assets/56217073/aba20f93-1513-46c5-a006-d5cc2014e041)
-![image](https://github.com/bhargav-modha/VedicAI/assets/56217073/062a5f3d-6f15-4e7a-879e-56106da550e8)
+![image](https://github.com/bhargav-modha/VedicAI/assets/56217073/dd84123e-56ee-4efd-a743-e7f9e1a4ee95)
+![image](https://github.com/bhargav-modha/VedicAI/assets/56217073/34d8083a-c87b-4dc3-bf70-3f4c9a89dd61)
+
+
 
 ## Future Enhancements
 - **Multilingual Support**: Extending the system to support multiple languages.
